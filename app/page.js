@@ -28,11 +28,11 @@ export default function Home() {
 
           <div className='col-span-2  -----Left hero'>
 
-                <div className='mt-3 md:pl-6 text-[#0C2347] font-semibold text-[20px] md:text-[24px] text-center '>We Take you Anywhere </div>
-                <div className='mt-2 md:pl-6 text-[#0C2347] font-semibold text-[20px] md:text-[24px] text-center '>You Want to Go </div>
-                <div className='mt-2 mb-5 md:pl-6 text-[#0C2347] font-medium text-[14px] md:text-[16px] text-center ' ><span className='text-[#1C4FA2]'> We Provide More,</span> You Pay Less </div>
+                <div className='mt-3 md:pl-6 text-[#0C2347] font-semibold text-[24px] md:text-[32px] text-center '>We Take you Anywhere </div>
+                <div className='mt-2 md:pl-6 text-[#0C2347] font-semibold text-[24px] md:text-[32px] text-center '>You Want to Go </div>
+                <div className='mt-4 mb-5 md:pl-6 text-[#0C2347] font-medium text-[14px] md:text-[16px] text-center ' ><span className='text-[#1C4FA2]'> We Provide More,</span> You Pay Less </div>
 
-                <div className='flex gap-5 flex-col text-[12px] px-4 md:px-0 lg:w-[60%] lg:ml-52 xl:w-[40%] xl:ml-[430px]'>
+                <div className='flex gap-5 flex-col text-[12px] px-4 md:px-0 lg:w-[60%] lg:ml-24 xl:w-[40%] xl:ml-[360px] '>
                     <div className='dark:bg-white font-medium text-[16px] md:text-[18px] rounded-md text-[#0C2347] dark:text-black items-center flex justify-evenly '>
                       <div>
                         Local
@@ -75,7 +75,7 @@ export default function Home() {
         </a>
         {/* ------------Review----------- */}
         
-          <div className='ml-5 md:ml-[234px] mt-12 text-md'>Trusted and Reviewed by </div>
+          <div className='ml-5 md:ml-[234px] mt-12 text-sm'>Trusted and Reviewed by </div>
           <div className='mx-4 md:mx-72 mt-6 flex justify-between'>
 
           <div>
@@ -85,9 +85,9 @@ export default function Home() {
                 <Image src='/star.png' width={20} height={20} alt='star'/>
                 <Image src='/star.png' width={20} height={20} alt='star'/>
                 <Image src='/star.png' width={20} height={20} alt='star'/>
-                <Image src='/star.png' width={20} height={20} alt='star'/>  
+                <Image src='/starhalf.png' width={10} height={10} alt='star'/>  
               </div>
-            <div className='text-[12px] my-2'>Rating : 5.0/5 reviews</div>
+            <div className='text-[12px] my-2'>Rating : 4.1/5 reviews</div>
           </div>
 
           <div>
@@ -97,9 +97,9 @@ export default function Home() {
                 <Image src='/star.png' width={20} height={20} alt='star'/>
                 <Image src='/star.png' width={20} height={20} alt='star'/>
                 <Image src='/star.png' width={20} height={20} alt='star'/>
-                <Image src='/starhalf.png' width={20} height={20} alt='star'/>  
+                <Image src='/starhalf.png' width={10} height={10} alt='star'/>  
               </div>
-            <div className='text-[12px] my-2'>Rating : 4.8/5 reviews</div>
+            <div className='text-[12px] my-2'>Rating : 4.5/5 reviews</div>
           </div>
 
         </div>

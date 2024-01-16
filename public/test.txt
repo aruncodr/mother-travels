@@ -1,0 +1,72 @@
+{/*
+
+        <div className='mt-16 text-center text-[#1C4FA2] text-xl py-8'>Our Services</div>
+        <div className='grid mx-2 p-2 border-1 text-[#0C2347] text-md '>
+          <div className='bg-[#FBFCFF] rounded-md text-center py-2 mx-2 my-2 hover:bg-gray-50'>Airport<br />Services</div>
+          <div className='bg-[#FBFCFF] rounded-md text-center py-2 mx-2 my-2 hover:bg-gray-50'>Outstation<br />Rides</div>
+          <div className='bg-[#FBFCFF] rounded-md text-center py-2 mx-2 my-2 hover:bg-gray-50'>24 * 7  Taxi services</div>
+          <div className='bg-[#FBFCFF] rounded-md text-center py-2 mx-2 my-2 hover:bg-gray-50'>Local Rides</div>
+          <div className='bg-[#FBFCFF] rounded-md text-center py-2 mx-2 my-2 hover:bg-gray-50'>Low Fare<br />Best Prices</div>
+          <div className='bg-[#FBFCFF] rounded-md text-center py-2 mx-2 my-2 hover:bg-gray-50'>Luxury cars<br />A/C cab<br />Carriers</div>
+          <div className='bg-[#FBFCFF] rounded-md text-center py-2 mx-2 my-2 hover:bg-gray-50'>Mother travels Puducherry</div>
+          <div className='bg-[#FBFCFF] rounded-md text-center py-2 mx-2 my-2 hover:bg-gray-50'>Well Trained Drivers</div>
+
+          
+        </div>
+        <div className='grid grid-cols-2 my-16'>
+          <div className='bg-blue-50 rounded-md text-center py-2 mx-1 my-1'>Airport Services</div>
+          <div className='grid row-span-3 bg-blue-50 rounded-md text-center py-2 mx-1 my-1'>24 * 7 <br />Taxi services</div>
+          <div className='bg-blue-50 rounded-md text-center py-2  mx-1 my-1'>Outstation Rides</div>
+          <div className='grid row-span-2 bg-blue-50 rounded-md text-center py-2 mx-1 my-1'>Local Rides</div>
+          <div className='grid row-span-3 bg-blue-50 rounded-md text-center py-2 mx-1 my-1'>Well Trained Drivers</div>
+          <div className='grid row-span-3 bg-blue-50 rounded-md text-center py-2 mx-1 my-1'>Mother travels Puducherry</div>
+          <div className='grid row-span-3 bg-blue-50 rounded-md text-center py-2 mx-1 my-1'>Low Fare<br />Best Prices</div>
+          <div className='grid row-span-3 bg-blue-50 rounded-md text-center py-2 mx-1 my-1'>Luxury cars<br />A/C cab<br />Carriers</div>
+          
+        </div>
+
+        <div className='grid grid-cols-2 my-16 bg-blu'>
+          <div className='bg-blue-50 rounded-md text-center py-2 mx-1 my-1'>Airport Services</div>
+          <div className='grid row-span-3 bg-blue-50 rounded-md text-center py-2 mx-1 my-1'>24 * 7 Taxi services</div>
+          <div className='bg-blue-50 rounded-md text-center py-2  mx-1 my-1'>Outstation Rides</div>
+          <div className='grid row-span-2 bg-blue-50 rounded-md py-2 pl-4 mx-1 my-1'>Local Rides</div>
+          <div className='grid row-span-3 bg-blue-50 rounded-md py-2 pl-4 mx-1 my-1'>Well Trained Drivers</div>
+          <div className='grid row-span-3 bg-blue-50 rounded-md py-2 pl-4 mx-1 my-1'>Mother travels Puducherry</div>
+          <div className='grid row-span-3 bg-blue-50 rounded-md py-2 pl-4 mx-1 my-1'>Low Fare<br />Best Prices</div>
+          <div className='grid row-span-3 bg-blue-50 rounded-md py-2 pl-4 mx-1 my-1'>Luxury cars<br />A/C cab<br />Carriers</div>
+          
+  
+  </div>  
+  
+  
+
+          <div className='bg-gray-100 my-12 px-10 leading-7 py-3 rounded-lg text-left'>
+              <h1 className='font-medium text-[#0C2347] text-2xl pb-2 text-center'>Taxi cab services</h1>
+              <div>24*7 Taxi Services</div>
+              <div>Well Trained Drivers</div>
+              <div>Local Rides</div>
+              <div>Outstation Rides</div>
+              <div>Luxury cars / AC / Carriers</div>
+              <div>Lowest fare / Best Prices</div>
+          </div>
+          
+        <div className='my-12 px-10 leading-7 py-3 rounded-lg text-left'>
+              <h1 className='font-medium text-[#0C2347] text-2xl pb-2 text-center'>Taxi cab services</h1>
+              <div className='bg-blue-50'>24*7 Taxi Services</div>
+              <div>Well Trained Drivers</div>
+              <div>Local Rides</div>
+              <div>Outstation Rides</div>
+              <div>Luxury cars / AC / Carriers</div>
+              <div>Lowest fare / Best Prices</div>
+          </div>
+
+
+  */}
+
+
+
+
+
+
+
+

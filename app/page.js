@@ -77,15 +77,15 @@ export default function Home() {
 
 
 <div className='mt-32 text-center bg-[#FBFCFF] text-[#1C4FA2] font-semibold font- text-3xl py-8'>Our Services</div>
-        <div className='grid grid-cols-2 leading-7 mx-2 p-2 pb-8 border-1 text-[#1C4FA2] bg-[#FBFCFF] text-md font-semibold'>
+        <div className='grid grid-cols-2 leading-7 mx-2 p-2 pb-8 border-1 text-[#1C4FA2] bg-[#FBFCFF] text-md font-medium'>
           <div className='bg-white rounded-md shadow-sm text-center py-2 mx-2 my-2 hover:bg-gray-50'>Airport Services</div>
           <div className='row-span-3 bg-white flex flex-col-reverse items-center rounded-md shadow-sm text-center py-2 mx-2 my-2 hover:bg-gray-50'>
-            <div className='font-bold'>24 * 7 <br />Taxi services</div> <div><Image className='mb-4' width={36} height={36} src="ontime.svg"></Image></div>
+            <div className='font-semibold'>24 * 7 <br />Taxi services</div> <div><Image className='mb-4' width={36} height={36} src="ontime.svg"></Image></div>
             </div>
           <div className='bg-white rounded-md shadow-sm text-center py-2  mx-2 my-2 hover:bg-gray-50'>Outstation Rides</div>
           <div className='grid row-span-2 bg-white rounded-md shadow-sm text-center py-2 mx-2 my-2 hover:bg-gray-50'>Local Rides</div>
           <div className='row-span-3 bg-white flex flex-col-reverse items-center rounded-md shadow-sm text-center py-2 mx-2 my-2 hover:bg-gray-50'>
-            <div className='font-bold'>Well Trained<br />Drivers</div> <div><Image className='mb-4' width={40} height={40} src="welldriver.svg"></Image></div>
+            <div className='font-semibold'>Well Trained<br />Drivers</div> <div><Image className='mb-4' width={40} height={40} src="welldriver.svg"></Image></div>
             </div>
           <div className='grid row-span-2 bg-white rounded-md shadow-sm text-center py-2 mx-2 my-2 hover:bg-gray-50'>Mother travels Puducherry</div>
           <div className='grid row-span-3 bg-white rounded-md shadow-sm text-center py-2 mx-2 my-2 hover:bg-gray-50'>Low Fare<br />Best Prices</div>

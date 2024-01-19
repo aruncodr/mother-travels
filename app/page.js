@@ -99,6 +99,12 @@ export default function Home() {
         <div className='font-semibold'>Low Fare<br />Best Prices</div>
       </div>
 
+      <div className='col-span-2 mx-2 text-center pt-4 mt-4 hover:bg-gray-50'>
+        <div className='text-lg font-medium pb-2'>"Seamless travel at your fingertips!"</div>
+        <div className='font-normal text-md tracking-wider text-left mx-6'>Enjoy comfort, safety, 
+        and timely pickups for your journey. Book your ride now! </div>
+      </div>
+
     </div>
   </div>
 
